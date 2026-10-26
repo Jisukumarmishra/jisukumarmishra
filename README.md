@@ -1,7 +1,3 @@
-I'm Jisu Kumar, a Software Developer passionate about building web applications and exploring new technologies.
-
-**Currently:**
-
-* Software Developer | Full Stack Development
+I am Jisu Kumar, a Software Developer and Open Source Contributor.
 
 **More about me:** [jisukumar.in](https://jisukumar.in)
